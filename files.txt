@@ -1,0 +1,123 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5040-564B
+
+ Directory of C:\D\Male\System\PraxmaMalhe
+
+08/23/2017  08:59 AM    <DIR>          .
+08/23/2017  08:59 AM    <DIR>          ..
+08/23/2017  08:58 AM    <DIR>          .vs
+08/23/2017  09:00 AM                 0 files.txt
+08/23/2017  08:58 AM    <DIR>          PraxmaMalhe
+08/06/2017  09:40 PM             1,000 PraxmaMalhe.sln.txt
+               2 File(s)          1,000 bytes
+
+ Directory of C:\D\Male\System\PraxmaMalhe\.vs
+
+08/23/2017  08:58 AM    <DIR>          .
+08/23/2017  08:58 AM    <DIR>          ..
+08/23/2017  08:58 AM    <DIR>          config
+08/23/2017  08:58 AM    <DIR>          PraxmaMalhe
+               0 File(s)              0 bytes
+
+ Directory of C:\D\Male\System\PraxmaMalhe\.vs\config
+
+08/23/2017  08:58 AM    <DIR>          .
+08/23/2017  08:58 AM    <DIR>          ..
+08/06/2017  09:40 PM            85,869 applicationhost.config.txt
+               1 File(s)         85,869 bytes
+
+ Directory of C:\D\Male\System\PraxmaMalhe\.vs\PraxmaMalhe
+
+08/23/2017  08:58 AM    <DIR>          .
+08/23/2017  08:58 AM    <DIR>          ..
+08/23/2017  08:58 AM    <DIR>          v14
+               0 File(s)              0 bytes
+
+ Directory of C:\D\Male\System\PraxmaMalhe\.vs\PraxmaMalhe\v14
+
+08/23/2017  08:58 AM    <DIR>          .
+08/23/2017  08:58 AM    <DIR>          ..
+               0 File(s)              0 bytes
+
+ Directory of C:\D\Male\System\PraxmaMalhe\PraxmaMalhe
+
+08/23/2017  08:58 AM    <DIR>          .
+08/23/2017  08:58 AM    <DIR>          ..
+08/06/2017  09:41 PM             6,051 ApplicationInsights.config.txt.txt
+08/20/2017  06:45 PM             3,157 Capture.aspx.designer.vb.txt.txt
+08/20/2017  08:33 PM             1,789 Capture.aspx.txt.txt
+08/21/2017  10:29 PM            21,021 Capture.aspx.vb.txt
+08/23/2017  08:58 AM    <DIR>          Css
+08/19/2017  12:45 AM             1,965 Header.Master.designer.vb.txt.txt
+08/20/2017  08:29 PM             1,143 Header.Master.txt.txt
+08/19/2017  12:45 AM               416 Header.Master.vb.txt
+08/23/2017  08:58 AM    <DIR>          Images
+08/19/2017  12:35 AM             1,929 Login.aspx.designer.vb.txt
+08/19/2017  12:35 AM             2,433 Login.aspx.txt.txt
+08/21/2017  10:44 PM             3,871 Login.aspx.vb.txt.txt
+08/20/2017  09:57 PM             2,185 Module.aspx.designer.vb.txt.txt
+08/20/2017  10:00 PM             1,928 Module.aspx.txt.txt
+08/21/2017  10:12 PM             1,428 Module.aspx.vb.txt
+08/23/2017  08:58 AM    <DIR>          My Project
+08/06/2017  09:41 PM             1,149 packages.config.txt
+08/21/2017  10:44 PM            14,109 PraxmaMalhe.vbproj.txt
+08/21/2017  10:44 PM             1,211 PraxmaMalhe.vbproj.user.txt.txt
+08/19/2017  12:49 AM             1,331 ProcessType.aspx.designer.vb.txt
+08/19/2017  12:49 AM             1,316 ProcessType.aspx.txt
+08/19/2017  11:11 AM             1,098 ProcessType.aspx.vb.txt
+08/23/2017  08:58 AM    <DIR>          scripts
+08/18/2017  11:03 PM             2,059 Web.config.txt.txt
+08/06/2017  09:40 PM             1,299 Web.Debug.config.txt
+08/06/2017  09:40 PM             1,360 Web.Release.config.txt
+              22 File(s)         74,248 bytes
+
+ Directory of C:\D\Male\System\PraxmaMalhe\PraxmaMalhe\Css
+
+08/23/2017  08:58 AM    <DIR>          .
+08/23/2017  08:58 AM    <DIR>          ..
+08/20/2017  08:35 PM             2,976 custom.css.txt.txt
+               1 File(s)          2,976 bytes
+
+ Directory of C:\D\Male\System\PraxmaMalhe\PraxmaMalhe\Images
+
+08/23/2017  08:58 AM    <DIR>          .
+08/23/2017  08:58 AM    <DIR>          ..
+08/18/2017  10:24 PM           224,683 Logo PRAXMA PNG HQ.png
+08/06/2017  09:49 PM            12,516 Logo.jpg
+08/18/2017  10:24 PM           340,415 PXA_FondoBLANCO.jpg
+08/18/2017  10:24 PM           414,060 PXA_FondoGRIS.jpg
+08/18/2017  10:24 PM           490,929 PXA_FondoNEGRO.jpg
+               5 File(s)      1,482,603 bytes
+
+ Directory of C:\D\Male\System\PraxmaMalhe\PraxmaMalhe\My Project
+
+08/23/2017  08:58 AM    <DIR>          .
+08/23/2017  08:58 AM    <DIR>          ..
+08/06/2017  09:40 PM               402 Application.Designer.vb.txt.txt
+08/06/2017  09:40 PM               481 Application.myapp.txt
+08/06/2017  09:40 PM             1,164 AssemblyInfo.vb.txt
+08/23/2017  08:58 AM    <DIR>          MyExtensions
+08/06/2017  09:40 PM             2,719 Resources.Designer.vb.txt
+08/06/2017  09:40 PM             5,612 Resources.resx.txt
+08/06/2017  09:40 PM             2,944 Settings.Designer.vb.txt
+08/06/2017  09:40 PM               279 Settings.settings.txt
+               7 File(s)         13,601 bytes
+
+ Directory of C:\D\Male\System\PraxmaMalhe\PraxmaMalhe\My Project\MyExtensions
+
+08/23/2017  08:58 AM    <DIR>          .
+08/23/2017  08:58 AM    <DIR>          ..
+08/06/2017  09:40 PM             3,527 MyWebExtension.vb.txt
+               1 File(s)          3,527 bytes
+
+ Directory of C:\D\Male\System\PraxmaMalhe\PraxmaMalhe\scripts
+
+08/23/2017  08:58 AM    <DIR>          .
+08/23/2017  08:58 AM    <DIR>          ..
+08/06/2017  09:41 PM           200,531 ai.0.22.9-build00167.js.txt.txt
+08/06/2017  09:41 PM            85,191 ai.0.22.9-build00167.min.js.txt
+               2 File(s)        285,722 bytes
+
+     Total Files Listed:
+              41 File(s)      1,949,546 bytes
+              32 Dir(s)  29,652,082,688 bytes free
